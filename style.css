@@ -72,6 +72,9 @@ color: red;
   margin-top: 1rem;
 }
 
+#previous, #next {
+  padding: 0 0 .5rem 0;
+}
 .containerCover {
   color: white;
   text-align: center;
