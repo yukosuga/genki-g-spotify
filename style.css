@@ -9,9 +9,13 @@
 }
 
 body {
-  color: white;
+  /* color: white; */
+  color: #fdfdfd;
+
   font-family: "ShareTechMono-Regular", "Times New Roman", Times, serif;
-  background-color: black;
+  /* background-color: black; */
+  background-color: #222;
+  
 }
 
 h1 {
