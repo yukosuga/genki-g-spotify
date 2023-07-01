@@ -31,24 +31,32 @@ h1 {
   margin: auto;
 }
 
-.containerInstagram {
+.containerSNS {
   font-size: 2rem;
   text-align: center;
-  margin: 1rem 0 1rem;
-}
-
-.containerInstagram a {
-  color: aquamarine;
-}
-
-.containerInstagram a:hover {
-color: red;
+  margin: 2rem 0 1rem;
 }
 
 #instagramIcon {
-  margin: 0 1rem 0 0;
-  width: 2rem;
+  margin: 0 0.2rem 0;
+  width: 3rem;
   vertical-align: bottom;
+  color: #7fffd4;
+}
+
+#instagramIcon:hover {
+  content: url(./img/instagram_icon_hover.png);
+}
+
+#youtubeIcon {
+  margin: 0 0.2rem 0;
+  width: 3rem;
+  vertical-align: bottom;
+  color: #7fffd4;
+}
+
+#youtubeIcon:hover {
+  content: url(./img/youtube_icon_hover.png);
 }
 
 .profileText {
